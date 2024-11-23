@@ -23,3 +23,22 @@ By completing this lab, I aim to:
 - Understand how autoencoders work for unsupervised learning.
 - Learn to use Keras for building and training autoencoder models.
 - Analyze model performance using evaluation metrics and latent space visualizations.
+
+## Getting Started
+
+To use this project:
+
+1. Create a virtual environment
+
+```bash
+python -m venv venv
+source venv/bin/activate
+```
+
+2. Install requirements
+
+```bash
+pip install -r requirements.txt
+```
+
+3. Run the Notebook cells
